@@ -1,0 +1,16 @@
+ 1022  git commit -a
+ 1023  git commit -a -m "Edit answers"
+ 1024  git push
+ 1025  git pull
+ 1026  git --help
+ 1027  git status
+ 1028  git commit
+ 1029  git push
+ 1030  git status
+ 1031  git commit -a -m "Update README"
+ 1032  git push
+ 1033  git pull
+ 1034  git pull --merge
+ 1035  git pull --rebase
+ 1036  git push
+ 1037  script finalsubmission-cli.txt
